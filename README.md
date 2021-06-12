@@ -1,2 +1,2 @@
 # Movie-App
-A movie app which displays some popular movies created with the help of tmdb APIs.
+Check out the working demo : https://kaushik-growingdeveloper.github.io/Movie-App/index.html
